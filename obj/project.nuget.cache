@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4Kx1YrrQvBlvORUDNfZG3cax5pdVAvMG9//rEZMgr7RFFkfWvcDh+akhh4yPmNc49o4D6+7VrpTCQqikVujDtQ==",
+  "dgSpecHash": "arlyRJhGcj/T+zj8i42VdkP7W6iCcqbGr7LJaIV9ulGvcHRJsgwt1oaaFfTbjJXe09BIZaHhZJZi7T/a9kKCYA==",
   "success": true,
   "projectFilePath": "/Users/administrator/dotnet-user-secrets-az-keyvault/api-user-secrets.csproj",
   "expectedPackageFiles": [
